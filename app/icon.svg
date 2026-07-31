@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#0E1420"/>
+
+  <!-- three candlesticks trending up, echoing the ticker-tape signature -->
+  <!-- candle 1: short, low -->
+  <line x1="16" y1="30" x2="16" y2="46" stroke="#C1554B" stroke-width="2" stroke-linecap="round"/>
+  <rect x="12" y="34" width="8" height="9" rx="1.5" fill="#C1554B"/>
+
+  <!-- candle 2: medium, mid height -->
+  <line x1="32" y1="20" x2="32" y2="40" stroke="#4FA98C" stroke-width="2" stroke-linecap="round"/>
+  <rect x="28" y="24" width="8" height="12" rx="1.5" fill="#4FA98C"/>
+
+  <!-- candle 3: tall, highest — the signature amber accent -->
+  <line x1="48" y1="10" x2="48" y2="34" stroke="#E3A857" stroke-width="2" stroke-linecap="round"/>
+  <rect x="44" y="14" width="8" height="16" rx="1.5" fill="#E3A857"/>
+</svg>
